@@ -4,7 +4,7 @@ const Caresol = () => {
       <div className="carousel my-4 w-full">
         <div id="slide1" className="carousel-item relative w-full h-95">
           <img
-            src="./public/img/1733033120608807087.png"
+            src="./img/1733033120608807087.png"
             className="w-full"
           />
           <div className="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">

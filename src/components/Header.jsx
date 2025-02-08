@@ -7,7 +7,7 @@ const Header = () => {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <Link to='/' className="w-8 h-8 flex items-center justify-center rounded-full">
-            <img src="./public/img/Navy and Pink Modern Online Store Logo.png" alt="" />
+            <img src="./public/img/ab-logo.png" alt="" />
           </Link>
           <span className="text-2xl font-bold text-blue-600">AMAR BAZAR</span>
         </div>
