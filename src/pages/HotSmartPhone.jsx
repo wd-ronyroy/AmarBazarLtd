@@ -15,145 +15,75 @@ const HotSmartPhone = () => {
 
       {/* Product Section */}
       <div className=" mx-6 my-4 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4">
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
+        <div className=" p-4 rounded-lg text-center shadow-md relative">
+        <img className="h-40" src="./img/Navy and Pink Modern Online Store Logo.png" alt="" />
           <h3 className="text-lg font-semibold">Product Name</h3>
           <p className="text-gray-600">Starting from</p>
           <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
-        </div>
-        <div className="border p-4 rounded-lg text-center shadow-md relative">
-          <div className="w-full h-32 bg-gray-200 mb-2" />
-          <h3 className="text-lg font-semibold">Product Name</h3>
-          <p className="text-gray-600">Starting from</p>
-          <p className="text-lg font-bold">XX,XXX</p>
-          <button className="mt-2 bg-green-500 text-white px-4 py-2 rounded-sm">Buy Now</button>
+          <button className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 text-white px-4 py-2 rounded-sm">Buy Now</button>
         </div>
 
         </div>

@@ -63,9 +63,9 @@ const MainFooter = () => {
           </ul>
           <h3 className="text-gray-600 mt-6 ">Follow Us</h3>
           <div className="flex space-x-3 mt-2 w-22 ">
-            <a href=""><img src="./../public/icon/facebook.png"/></a>
-            <a href=""><img src="./../public/icon/social.png"/></a>
-            <a href=""><img src="./../public/icon/youtube.png"/></a>
+            <a href=""><img src="./icon/facebook.png"/></a>
+            <a href=""><img src="./icon/social.png"/></a>
+            <a href=""><img src="./icon/youtube.png"/></a>
             
           </div>
         </div>
@@ -73,7 +73,7 @@ const MainFooter = () => {
 
       {/* Payment Icons */}
       <div className="flex justify-center mt-6 mx-50">
-      <img className="" src="./public/img/footer-ssl.7ea84e9c.webp" alt="" />
+      <img className="" src="./img/footer-ssl.7ea84e9c.webp" alt="" />
       </div>
       
       
