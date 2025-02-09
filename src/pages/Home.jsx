@@ -2,14 +2,16 @@
 import Header from '../components/Header';
 import MainFooter from '../components/MainFooter';
 import Caresol from './Caresol';
-import HotProducts from './HotProducts';
+import HotLaptopHome from './HotLaptopHome';
+import HotSmartPhoneFHome from './HotSmartPhoneFHome';
 
 const Home = () => {
     return (
         <div>
             <Header/>
             <Caresol/>
-            <HotProducts/>
+            <HotSmartPhoneFHome/>
+            <HotLaptopHome/>
             <MainFooter/>
         </div>
     );

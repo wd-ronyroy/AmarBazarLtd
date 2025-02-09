@@ -8,6 +8,7 @@ import {
 import Home from './pages/Home';
 import HotSmartPhone from './pages/HotSmartPhone';
 import Buy from './pages/Buy';
+import AllHotLaptop from './pages/AllHotLaptop';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
   {
     path: "/hot-smartphone",
     element: <HotSmartPhone/>,
+  },
+  {
+    path: "/allhotlaptop",
+    element: <AllHotLaptop/>,
   },
   
  

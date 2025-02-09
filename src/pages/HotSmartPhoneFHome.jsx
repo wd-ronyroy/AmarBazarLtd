@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const HotProducts = () => {
+const HotSmartPhoneFHome = () => {
     return (
       <div>
         <div className="flex justify-between mx-6">
@@ -12,7 +12,7 @@ const HotProducts = () => {
           </Link>
         </div>
   
-        {/* Product Section */}
+        {/* Hot Smartphone Collection */}
         <div className=" mx-6 my-4 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-4">
           <div className="p-4 rounded-lg text-center shadow-md relative">
             <span className="absolute top-2 left-1 bg-green-500 text-white text-xs font-bold px-2 pl-3 py-1 rounded">
@@ -104,12 +104,18 @@ const HotProducts = () => {
             <p className="text-gray-600">Starting from</p>
             <p className="text-lg font-bold">XXXXX</p>
           </div>
-          
-          
+        </div>
+
+        {/* Image Category Product Section  */}
+        <div className="flex gap-2 mx-2 ml-6 mr-6 my-4">
+          <Link to="#"><img className=" h-110 w-100" src="./img/1.jpeg"/></Link>
+          <Link to="#"><img className=" h-110 w-100" src="./img/2.jpeg"/></Link>
+          <Link to="#"><img className=" h-110 w-100" src="./img/3.jpeg"/></Link>
+          <Link to="#"><img className=" h-110 w-100" src="./img/4.jpeg"/></Link>
         </div>
       </div>
     );
   };
   
-  export default HotProducts;
+  export default HotSmartPhoneFHome;
   
